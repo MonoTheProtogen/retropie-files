@@ -1,0 +1,53 @@
+Platform - Core - Bios?
+Atari 2600 - lr-stella - no
+Atari 5200 - lr-atari800 - 5200.rom
+Atari 7800 - lr-prosystem - no
+Atari 800 - lr-atari800 - ATARIXL/ATARIBAS/ATARIOSA/ATARIOSB.ROM
+Amstrad CPC - lr-caprice32 - no
+Amiga - amiberry - kickstart (workbench for desktop support)
+Apple II - linapple - no
+Arcade (MAME) - mame2003/mame2003-plus - neogeo.zip (for neogeo games)
+Arcade (NeoGeo) - lr-fbneo/lr-fbalpha - neogeo.zip
+NeoGeo Pocket/Color - lr-fbneo - no
+ColecoVision - lr-blueMSX - coleco.rom
+Commodore 64 - vice/lr-vice - no
+GameBoy - lr-gambatte - only for boot screen
+GameBoy Color - lr-gambatte - only for boot screen
+GameBoy Advance - lr-mgba - only for boot screen
+Game Gear - lr-genesis-plus-gx - no
+Genesis/Mega Drive - lr-genesis-plus-gx/lr-picodrive - no
+Master System/SG-1000 - lr-genesis-plus-gx - no
+MSX/MSX2 - lr-blueMSX/openMSX - no
+NES/FC - lr-fceumm/lr-nestopia - no
+FCDS - lr-fceumm/lr-nestopia - yes
+SNES - lr-snes9x/2002/2005/2010 - no
+PC Engine/TG16 - lr-beetle-pce-fast - syscard3.pce
+PC Engine/TG16 CD - lr-beetle-pce-fast - syscard3.pce
+Playstation 1 - lr-pcsx-rearmed - yes
+Sega CD - lr-picodrive - yes
+Vectrex - lr-vecx - no
+ZX Spectrum - lr-fuse - no
+PC/DOS - dosbox-svr/dosbox-staging - no
+Intellivision - jzintv - exec.bin, grom.bin
+Atari Lynx - lr-beetle-lynx - no
+VirtualBoy - lr-beetle-vb - no
+WonderSwan/Color - lr-beetle-wswan - no
+Oric
+Dragon 32/64
+TRS-80
+Color Computer
+Sam Coupe
+Videopac/Odyssey2
+Game&Watch
+
+
+-- might not/won't run --
+N64
+Dreamcast
+PSP
+PS2
+GameCube
+Wii
+Saturn
+3DO
+Jaguar
